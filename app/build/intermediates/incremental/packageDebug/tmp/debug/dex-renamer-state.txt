@@ -1,0 +1,4 @@
+#Wed Oct 19 15:57:39 CEST 2022
+base.0=C\:\\Users\\ganeshj\\Downloads\\Android\\Android\\Exercices\\hello_world\\app\\build\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
